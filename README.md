@@ -1,3 +1,3 @@
 # RecyclerView
 
-Step by step how to use RecyclerView, Picasso, Retrofit, and OkHttp.
+The same RecyclerView and Retrofit example but using MVP architecture.
